@@ -1,0 +1,12 @@
+h1{
+    color:red;
+    font-size:110px;
+    font-weight:bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color: aquamarine; 
+}
+
+body{
+    background-image: url("../images/ibra.jpg")
+}

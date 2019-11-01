@@ -1,0 +1,28 @@
+h1{
+    color: crimson;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align:  center;
+    background-color: black;
+}
+
+h2{
+    color: powderblue;
+    font-size: 30px;
+    text-align: center;
+    background-color: navy
+}
+
+h3{
+    color: greenyellow;
+    font-size: 20px;
+    text-align: left;
+}
+
+body{
+    background-image: url("../images/kirei.jpg");
+    }
+
+p{
+    color: orangered;
+}
