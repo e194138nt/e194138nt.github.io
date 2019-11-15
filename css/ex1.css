@@ -1,0 +1,37 @@
+h1{
+    color: deepskyblue;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align:  center;
+    background-color: mediumvioletred;
+}
+
+h2{
+    color: powderblue;
+    font-size: 30px;
+    text-align: center;
+    background-color: green
+}
+
+h3{
+    color: greenyellow;
+    font-size: 20px;
+    text-align: left;
+}
+
+body{
+    background-image: url("../images/josei.jpg");
+    }
+
+table{
+    color: royalblue;
+    background-color: springgreen;
+}
+
+ol{
+    background-image: url("../images/nijiiro.jpg")
+}
+
+address{
+    color: lemonchiffon;
+}
