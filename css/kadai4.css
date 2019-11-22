@@ -1,0 +1,40 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: black;
+    font-size: 40px;
+}
+
+h2{
+    color: blue;
+    text-align: center;
+    background-color: springgreen;
+}
+
+h2.dorama{
+    color: red;
+    text-align: center;
+    background-color: darkcyan;
+}
+
+h1.link{
+    color: purple;
+    text-align: center;
+    background-color: hotpink;
+}
+
+body{
+    background-image: url("../images/josei.jpg");
+    }
+
+p.setumei1{
+    color: gold;
+}
+
+p.setumei2{
+    color: greenyellow;
+}
+
+a{
+    color: blue;
+}
