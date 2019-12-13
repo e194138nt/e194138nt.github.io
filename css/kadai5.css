@@ -1,0 +1,94 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: sandybrown;
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+div.haikei{
+    width: 1000px;
+    height: 320px;
+    background-color: aqua;
+    margin: 0px;
+    font-size: 0px;
+}
+
+div.menu{
+    width: 250px;
+    height: 320px;
+    background-color: salmon;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+div.images{
+    width: 700px;
+    height: 320px;
+    background-color: darkcyan;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin: 0px;
+    font-size: 50px;
+}
+
+div.bunsho{
+    width: 700px;
+    height: 20px;
+    background-color: firebrick;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0px;
+    font-size: 15px;
+}
+
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: lime;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color: lime;
+    display: inline-block;
+    vertical-align: top;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: lime;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px;
+    font-size: 30px;
+}
+
+div.futa{
+    width: 1000px;
+    height: 40px;
+    background-color: khaki;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+div.gazo{
+    font-size: 40px;
+    width: 700px;
+    height: 300px;
+}
+
+
