@@ -1,0 +1,49 @@
+div.title{
+    width: 1000px;
+    height: 40px;
+    background-color: powderblue;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+div.images1{
+    text-align: center;
+    margin-bottom: 20px;
+    color: white;
+}
+
+div.setumei1{
+    text-align: left;
+}
+
+div.images2{
+    text-align: center;
+}
+
+div.jinbutu{
+    text-align: center;
+    font-size: 30px;
+    color: crimson;
+    background-color: pink;
+    margin-bottom: 40px;
+}
+
+body{
+    background-image: url(../images/s.jpg);
+}
+
+div.a{
+    display: inline-block;
+    color: lawngreen;
+    margin-bottom: 40px;
+}
+
+.pg{
+    color: deepskyblue;
+    text-decoration: none;
+}
+
+.hito{
+    color: lemonchiffon;
+}
